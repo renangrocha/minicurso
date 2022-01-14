@@ -29,8 +29,8 @@ main >  section button{
     font-weight: 500;
     letter-spacing: -0,6px;
     line-height: 15px;
-    text-transform: uppercase;
     padding: 9px; 23px;
-    
+    text-transform: uppercase;
+
 }
 
